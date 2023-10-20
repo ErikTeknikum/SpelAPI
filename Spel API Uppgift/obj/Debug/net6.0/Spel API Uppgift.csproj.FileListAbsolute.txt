@@ -1,0 +1,32 @@
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\appsettings.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Spel API Uppgift.exe
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Spel API Uppgift.deps.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Spel API Uppgift.runtimeconfig.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Spel API Uppgift.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Spel API Uppgift.pdb
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets\msbuild.Spel API Uppgift.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets\msbuild.build.Spel API Uppgift.props
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Spel API Uppgift.props
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Spel API Uppgift.props
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\scopedcss\bundle\Spel API Uppgift.styles.css
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.csproj.CopyComplete
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\refint\Spel API Uppgift.dll
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.pdb
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\Spel API Uppgift.genruntimeconfig.cache
+C:\Users\Elev\source\repos\Spel API Uppgift\Spel API Uppgift\obj\Debug\net6.0\ref\Spel API Uppgift.dll
